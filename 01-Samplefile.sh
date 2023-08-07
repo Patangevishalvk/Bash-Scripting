@@ -1,5 +1,3 @@
-Samplefile
-
 #!/bin/bash 
 
 
