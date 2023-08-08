@@ -14,3 +14,5 @@
 #White 37	47
 
 echo -e "\e[33m My Name is Vishl Patange \e[0m"
+echo -e "\e[34m My Name is Vishl Patange \e[0m"
+echo -e "\e[35m My Name is Vishl Patange \e[0m"
