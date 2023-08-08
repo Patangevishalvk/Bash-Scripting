@@ -6,3 +6,4 @@ echo Line 3
 
 echo -e "Line4\nLine6" 
 
+echo -e "Line7\tLine8" 
