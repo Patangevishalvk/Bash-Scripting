@@ -10,5 +10,5 @@
 echo a=20;
 echo b=20;
 echo c=a+b;
-echo "Printing the Value of $a"
-echo "Printing the Value of ${a}"
+echo "Printing the Value of a : $a"
+echo "Printing the Value of a : ${a}"
