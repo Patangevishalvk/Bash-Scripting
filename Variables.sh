@@ -3,9 +3,8 @@
 
 #Variables are to define any value.
 
-#a=20;
-#b=20;
-#c=a+b;
+a=20;
+b=20;
 
 echo a=20;
 echo b=20;
