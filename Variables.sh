@@ -10,4 +10,4 @@
 echo a=20;
 echo b=20;
 echo c=a+b;
-
+echo $c=a+b;
