@@ -13,4 +13,4 @@
 #Cyan  36	46
 #White 37	47
 
-echo -e "\e[33m My Name is Vishl Patange \033[0m"
+echo -e "\e[33m My Name is Vishl Patange \e[0m"
